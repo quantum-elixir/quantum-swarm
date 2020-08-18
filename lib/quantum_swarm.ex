@@ -2,7 +2,8 @@ defmodule QuantumSwarm do
   @moduledoc """
   Defines a `Swarm` Replicated `Quantum` Scheduler.
 
-  **Quantum has encountered many problemy with Swarm in the past. Therefore this libary is provided as is. The maintainers of `Quantum` may not be able to help resolve issues.
+  **Quantum has encountered many problemy with Swarm in the past. Therefore this libary is provided
+  as is. The maintainers of `Quantum` may not be able to help resolve issues.**
 
   Instead of this code:
 
